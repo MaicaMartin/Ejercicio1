@@ -6,7 +6,7 @@ namespace ejercicio
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("a!");
+            Console.WriteLine("hola q tal todo va bien");
         }
     }
 }
