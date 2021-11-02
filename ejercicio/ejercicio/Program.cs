@@ -7,6 +7,7 @@ namespace ejercicio
         static void Main(string[] args)
         {
             Console.WriteLine("AAAAAA!!  bonk");
+            Console.WriteLine("no grasias");
         }
     }
 }
